@@ -1,8 +1,5 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
-
-# Bienvenido a la Wiki de ubykuo
-El objetivo principal de la Wiki es compartir conocimiento entre los equipos de desarrollo, así como entre los equipos de desarrollo y los de ventas, administración, etc.
+<!-- TITLE: Bienvenido a la Wiki de ubykuo -->
+<!-- SUBTITLE: El objetivo principal de la Wiki es compartir conocimiento entre los equipos de desarrollo, así como entre los equipos de desarrollo y los de ventas, administración, etc. -->
 
 ## ¿Por qué es importante la Wiki?
 Creemos en equipos independientes pero colaborativos, el crecimiento de los equipos es ayudado por la dirección y los líderes, pero empujado por sus miembros y la capacidad de innovar probando sin miedo alternativas nuevas a distintos problemas.
