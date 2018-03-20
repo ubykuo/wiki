@@ -12,6 +12,6 @@ Actualmente tenemos tres niveles de conocimiento:
 2. **Proyecto**: conocimiento específico del proyecto, que es aplicable a otros proyectos en muy bajo nivel o nulo. Como por ejemplo: la configuración de los servicios del servidor del cliente. 
 3. **Organización**: conocimiento fundamental para el funcionamiento y la consistencia entre la forma de trabajar de los equipos, como por ejemplo, proceso de desarrollo, logueo de actividad, protocolos de seguridad, políticas de privacidad, buenas prácticas en el desarrollo, etc.
 
-Para el caso 1 es que configuramos [ubykuo Devs](https://forum.ubykuo.com), el foro de ubykuo.
+Para el caso 1 es que configuramos [ubykuo </devs>](https://forum.ubykuo.com), el foro de ubykuo.
 
 Para  los casos 2 y 3 es que se creó la Wiki, los equipos podrán documentar lo necesario para que todos los miembros del equipo tenga la información necesaria y por parte de los equipos y la dirección de la empresa poder redactar documentos necesarios para el funcionamiento y el crecimiento de la empresa.
