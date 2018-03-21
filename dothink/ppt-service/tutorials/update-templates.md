@@ -1,5 +1,5 @@
 <!-- TITLE: Update Templates -->
 <!-- SUBTITLE: A quick summary of Update Templates -->
 
-# Header
+# Actualización de templates locales
 test
