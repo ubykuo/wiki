@@ -2,4 +2,4 @@
 <!-- SUBTITLE: A quick summary of Update Templates -->
 
 # Actualización de templates locales
-test
+si queres actualizar las copias locales borralas.
