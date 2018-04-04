@@ -1,4 +1,4 @@
-<!-- TITLE: Responsabilidades De Un Lider -->
+<!-- TITLE: Responsabilidades de un lider -->
 <!-- SUBTITLE: A quick summary of Responsabilidades De Un Lider -->
 
-# Header
+# Responsabilidades de un lider
