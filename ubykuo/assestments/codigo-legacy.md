@@ -1,7 +1,7 @@
 <!-- TITLE: Assesstment de codigo legacy -->
 <!-- SUBTITLE: ¿Cómo se realiza y para qué lo utilizamos? -->
 
-# Assessment de código legacy
+# Código legacy
 El objetivo de un assesstment (evaluación) de código es conocer los riesgos de continuar el desarrollo de una plataforma sobre código heredado desconocido. El assesstment debe arrojar evaluaciones objetivas al cliente, obtenidos mediante las métricas [SonarQube](https://www.sonarqube.org/) ([Continuos quality con SonarQube
 ](https://forum.ubykuo.com/continuos-quality-con-sonarqube/) y evaluaciones más profundas, realizadas por el encargado del assesstment, como por ejemplo, vulnerabilidades de seguridad, problemas de mantenibilidad, etc.
 
