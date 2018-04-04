@@ -1,7 +1,7 @@
 <!-- TITLE: Assesstment de codigo legacy -->
 <!-- SUBTITLE: ¿Cómo se realiza y para qué lo utilizamos? -->
 
-# Código legacy
+# Assessment de código legacy
 El objetivo de un assesstment (evaluación) de código es conocer los riesgos de continuar el desarrollo de una plataforma sobre código heredado desconocido. El assesstment debe arrojar evaluaciones objetivas al cliente, obtenidos mediante las métricas [SonarQube](https://www.sonarqube.org/) ([Continuos quality con SonarQube
 ](https://forum.ubykuo.com/continuos-quality-con-sonarqube/) y evaluaciones más profundas, realizadas por el encargado del assesstment, como por ejemplo, vulnerabilidades de seguridad, problemas de mantenibilidad, etc.
 
@@ -20,6 +20,6 @@ Es importante destacar que la documentación es necesaria para describir como ut
 ### Cobertura de tests
 Un porcentaje que indica la cantidad de líneas de código que son cubiertas por al menos UN test. Esta métrica indica claramente la seguridad (o no) que podemos tener a la hora de modificar el código.
 ## Plantilla
-La plantilla para assesstments de código legacy se encuentra [aquí](https://docs.google.com/document/d/1-3qZbVgSff5dUBpxa-4ttZDJ7BWordCqZaU6MlFnwsk/edit?usp=sharing).
+La plantilla para assesstments se encuentra [aquí](https://docs.google.com/document/d/1-3qZbVgSff5dUBpxa-4ttZDJ7BWordCqZaU6MlFnwsk/edit?usp=sharing)
 ## Riesgo
 El riesgo de la plataforma se termina determinando con un número entre 1 y 10.
