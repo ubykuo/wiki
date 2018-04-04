@@ -6,13 +6,13 @@
 
 Optimizar la comunicación interna es clave para lograr separar bien el momento en que un miembro del equipo está trabajando y el que no. En esta sección detallamos aspectos que identificamos y recomendamos tener en cuenta para optimizar la comunicación en el equipo.
 
-- **●●**** Horarios de compañeros:** al trabajar por objetivos, pueden variar los horarios a los que trabaja cada miembro, tener en cuenta estos a la hora de comunicarse, evitar enviar mensajes fuera de horario laboral (pasada la noche) o fuera del horario en que suele trabajar mi compañero.
+- **Horarios de compañeros:** al trabajar por objetivos, pueden variar los horarios a los que trabaja cada miembro, tener en cuenta estos a la hora de comunicarse, evitar enviar mensajes fuera de horario laboral (pasada la noche) o fuera del horario en que suele trabajar mi compañero.
 
-- **●●**** Definir reuniones:** se debe tener compromiso y fijar con antelación las reuniones ya sea con todos o algún miembro del equipo. Dejar fijo los días horarios para reuniones obligatorias como Pull Requests, reuniones con clientes, planificación, estimación, preparación para reunión con clientes.
-- **●●**** Prioridades:** las prioridades de comunicación sirven para orientar a los miembros del equipo, sobre todo a los que no han trabajado con esta metodología, a saber cuando es el mejor momento para comunicar o preguntar.
-  - **○○**** Alta:** caídas de servidores, problemas de salud, imprevistos que impiden cumplir compromisos.
-  - **○○**** Media:** problemas que bloquean el desarrollo de funcionalidades (luego de haber intentado una serie de soluciones), reportes de faltantes en entregables (ya sea código o diseño de un compañero), decisiones de diseño de alto impacto, como por ejemplo, utilizar paginación en memoria o desde el backend, utilizar caché con validación o sin.
-  - **○○**** Baja:** problemas técnicos muy profundos (que requieren mucho conocimiento del tema, esto requiere que el que quiera ayudar tenga que dedicar más tiempo a contextualizar que a resolver), decisiones de diseño menores, como por ejemplo, utilizar una u otra librería que resuelven lo mismo.
+- ** Definir reuniones:** se debe tener compromiso y fijar con antelación las reuniones ya sea con todos o algún miembro del equipo. Dejar fijo los días horarios para reuniones obligatorias como Pull Requests, reuniones con clientes, planificación, estimación, preparación para reunión con clientes.
+- ** Prioridades:** las prioridades de comunicación sirven para orientar a los miembros del equipo, sobre todo a los que no han trabajado con esta metodología, a saber cuando es el mejor momento para comunicar o preguntar.
+  - ** Alta:** caídas de servidores, problemas de salud, imprevistos que impiden cumplir compromisos.
+  - ** Media:** problemas que bloquean el desarrollo de funcionalidades (luego de haber intentado una serie de soluciones), reportes de faltantes en entregables (ya sea código o diseño de un compañero), decisiones de diseño de alto impacto, como por ejemplo, utilizar paginación en memoria o desde el backend, utilizar caché con validación o sin.
+  - ** Baja:** problemas técnicos muy profundos (que requieren mucho conocimiento del tema, esto requiere que el que quiera ayudar tenga que dedicar más tiempo a contextualizar que a resolver), decisiones de diseño menores, como por ejemplo, utilizar una u otra librería que resuelven lo mismo.
 
 ## Externa
 
