@@ -20,6 +20,6 @@ Es importante destacar que la documentación es necesaria para describir como ut
 ### Cobertura de tests
 Un porcentaje que indica la cantidad de líneas de código que son cubiertas por al menos UN test. Esta métrica indica claramente la seguridad (o no) que podemos tener a la hora de modificar el código.
 ## Plantilla
-La plantilla para assesstments se encuentra [aquí](https://docs.google.com/document/d/1-3qZbVgSff5dUBpxa-4ttZDJ7BWordCqZaU6MlFnwsk/edit?usp=sharing)
+La plantilla para assesstments de código legacy se encuentra [aquí](https://docs.google.com/document/d/1-3qZbVgSff5dUBpxa-4ttZDJ7BWordCqZaU6MlFnwsk/edit?usp=sharing).
 ## Riesgo
 El riesgo de la plataforma se termina determinando con un número entre 1 y 10.
