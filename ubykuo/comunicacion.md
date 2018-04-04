@@ -1,9 +1,9 @@
 <!-- TITLE: Comunicacion -->
-<!-- SUBTITLE: A quick summary of Comunicacion -->
+<!-- SUBTITLE: Claves para optimizar la comunicación en los equipos -->
 
 # Sobre la importancia de la comunicación
+En ubykuo no tenemos horarios fijos, esto trae ventajas, como la de definir horarios de trabajo dinámicamente (excepto por las reuniones pautadas con el equipo), pero por otrolado algunas desventajas si no se controlan aspectos como la comunicación. Este documento apunta a ayudar a establecer entre todo el equipo estándares de comunicación que favorezcan la productividad y ayude a llevar una vida equilibrada. Limitando claramente los momentos de trabajo de los de descanso.
 ## Interna
-
 Optimizar la comunicación interna es clave para lograr separar bien el momento en que un miembro del equipo está trabajando y el que no. En esta sección detallamos aspectos que identificamos y recomendamos tener en cuenta para optimizar la comunicación en el equipo.
 
 - **Horarios de compañeros:** al trabajar por objetivos, pueden variar los horarios a los que trabaja cada miembro, tener en cuenta estos a la hora de comunicarse, evitar enviar mensajes fuera de horario laboral (pasada la noche) o fuera del horario en que suele trabajar mi compañero.
