@@ -14,3 +14,5 @@ Un servidor en la nube. Se les suele llamar instancia porque lo que se utiliza e
 Repositorio, ramas, commits
 ## Refactoring
 ## Testing
+## API
+## Endpoint
