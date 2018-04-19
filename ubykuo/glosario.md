@@ -12,3 +12,5 @@ Todos los entornos siguientes son servidores o servicios desarrollados que son a
 Un servidor en la nube. Se les suele llamar instancia porque lo que se utiliza es una virtualización de una máquina, no la máquina completa.
 ## Control de versiones
 Repositorio, ramas, commits
+## Refactoring
+## Testing
