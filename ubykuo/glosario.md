@@ -10,3 +10,5 @@ Todos los entornos siguientes son servidores o servicios desarrollados que son a
 * El entorno de **producción** es donde se integra el código una vez que es validado por el cliente (y opcionalmente, dependiendo del proyecto, del/de los encargado/s de QC. Es el servicio o aplicación del cliente, por ejemplo https://beathey.com.
 ## Instancia
 Un servidor en la nube. Se les suele llamar instancia porque lo que se utiliza es una virtualización de una máquina, no la máquina completa.
+## Control de versiones
+Repositorio, ramas, commits
