@@ -4,6 +4,7 @@
 # JIRA Labels
 Comenzamos a utilizar *labels* con el fin de poder utilizar la información para aprender sobre como trabajamos, en que dedicamos tiempo (tipos de tecnologías, gestión, diseño, desarrollo) y que fortalezas se pueden empezar a potenciar. Es esencialmente comenzar a ordenar dentro de lo posible los datos que podemos obtener de JIRA para convertirlos en información. 
 ## Uso
+Las etiquetas o *labels* están en la vista de issue.
 * Usá siempre etiquetas, en formato minúscula y separado por guión medio. Por ejemplo:
 
 	php payment stripe stripe-subscription
