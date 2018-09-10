@@ -8,13 +8,13 @@ Comenzamos a utilizar *labels* con el fin de poder utilizar la información para
 
 	php payment stripe stripe-subscription
 
-	ux wireflow payment
+	**ux wireflow payment**
 
 * Buscá si la etiqueta ya existe previamente para no generar duplicados. Duplicados pueden ser:
 		
 	payments vs payment
 		
-	ux vs user-experience
+**	ux vs user-experience**
 		
 		
 ## Algunos básicos
