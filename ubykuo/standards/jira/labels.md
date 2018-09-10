@@ -12,7 +12,7 @@ Comenzamos a utilizar *labels* con el fin de poder utilizar la información para
 
 * Buscá si la etiqueta ya existe previamente para no generar duplicados. Duplicados pueden ser:
 		
-	payments vs payment
+**	payments vs payment**
 		
 **	ux vs user-experience**
 		
