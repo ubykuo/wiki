@@ -7,7 +7,7 @@ Comenzamos a utilizar *labels* con el fin de poder utilizar la información para
 Las etiquetas o *labels* están en la vista de issue.
 * Usá siempre etiquetas, en formato minúscula y separado por guión medio. Por ejemplo:
 
-	php payment stripe stripe-subscription
+	**php payment stripe stripe-subscription**
 
 	**ux wireflow payment**
 
