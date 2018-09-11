@@ -1,4 +1,4 @@
-<!-- TITLE: Lider Tecnico -->
+<!-- TITLE: Lider Tecnico [original] -->
 <!-- SUBTITLE: A quick summary of Lider Tecnico -->
 
 # Responsabilidades (actuales Lucas + Manu)
