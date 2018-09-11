@@ -1,5 +1,5 @@
 <!-- TITLE: Lider Tecnico -->
-<!-- SUBTITLE: A quick summary of Lider Tecnico -->
+<!-- SUBTITLE: Responsabilidades del Líder Técnico -->
 
 # Responsabilidades (actuales Lucas + Manu)
 * Asegurar calidad técnica del proyecto, teniendo en cuenta los factores de éxito y el presupuesto del mismo
@@ -36,16 +36,17 @@
 ### Implementación 
 * Diseño/Implementación de test de stress
 
-### Reportes
+### Soporte
 
-* atender reportes del cliente (asesoramiento técnico al PM)
-* evaluar alcance del reporte y prioridad
-* evaluar soluciones al reporte
-* estimar tiempo de implementación
-* comunicarle al cliente (PM-TL)
-* determinar el responsable de implementar la solución (TL-dev)
-* comunicarle al cliente el desvío (si aplica)
-* comunicarle al cliente cuando el reporte haya sido solucionado
+* Asesoramiento técnico al Product Manager
+* Determinar si es una incidencia
+* Evaluar alcance e impacto y priorizar
+* Evaluar soluciones a la incidencia
+	* Estimar tiempo de implementación
+	* Comunicarle al cliente (PM-TL)
+* Determinar el responsable de implementar la solución (TL-dev)
+* Comunicarle al cliente el desvío (si aplica)
+* Comunicarle al cliente cuando el reporte haya sido solucionado
 
 ### Desarrollos finalizados
 
@@ -56,7 +57,7 @@
 
 ### Setup inicial de integrantes del equipo
 
-* Introducir a integrantes nuevos del equipo el proceso del proyecto
+* Onboarding: introducir a integrantes nuevos del equipo al proceso de desarrollo de ubykuo y al proyecto
 * Configurar acceso a:
 	* Tablero del proyecto
 	* Repositorios de código
@@ -72,13 +73,15 @@
 	* Estimación de tareas (story points + horas + priority)
 * Seguimiento
 	* Revisión y actualización del tablero
+	* Proceso de diseño de UX
+		* Análisis de viabilidad técnica y feedback sobre propuesta del equipo de UX
 	* Revisión de estimación vs. presupuesto
-	* Revisión riesgos junto a PM (asesoramiento)
-	* Control de la metodología de trabajo utiizada
+	* Control de la metodología de trabajo utilizada
 	* Transmitir esfuerzo de las tareas realizadas al cliente
 * Reuniones:
-	* Standup meetings con el equipo
-	* Status meeting con el equipo + cliente
-	* con PM
-	* con diseñadores
-	* demos de las tareas realizadas al cliente
+	* Standup meetings
+	* Status meetings
+	* Revisión de estado con Product Manager
+		* Control riesgos junto a Product Manager (asesoramiento)
+		* Seguimiento de Roadmap
+	* Liderar end-to-end demos
