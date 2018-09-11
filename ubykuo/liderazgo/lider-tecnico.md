@@ -71,8 +71,8 @@
 	* Distribución de tareas a los desarrolladores
 	* Estimación de tareas (story points + horas + priority)
 * Seguimiento
-	* Revisión del tablero
-	* Revisión continua de estimación vs. presupuesto
+	* Revisión y actualización del tablero
+	* Revisión de estimación vs. presupuesto
 	* Revisión riesgos junto a PM (asesoramiento)
 	* Control de la metodología de trabajo utiizada
 	* Transmitir esfuerzo de las tareas realizadas al cliente
