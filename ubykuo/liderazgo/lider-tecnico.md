@@ -23,28 +23,30 @@
 * Atención de consultas a los desarrolladores 
 * Atención de consultas técnicas del cliente (asesoramiento técnico al PM)
 
-* Arquitectura:
-	* Configuración de servidores/buckets (AWS)
-	* Configuración de SSL
-	* Configuración de Proxy
-	* Configuración de DNS
-	* Configuración de CI
-	* Configuración de entornos (preproducción/produccion) 
+* Estimación de nuevas funcionalidades para presupuestos
 
+### Arquitectura
 
+* Configuración de servidores/buckets (AWS)
+* Configuración de SSL
+* Configuración de Proxy
+* Configuración de DNS
+* Configuración de CI
+* Configuración de entornos (preproducción/produccion) 
+
+### Implementación 
 * Diseño/Implementación de test de stress
 
 ### Reportes
 
-* Reportes:
-	* atender reportes del cliente (asesoramiento técnico al PM)
-	* evaluar alcance del reporte y prioridad
-	* evaluar soluciones al reporte
-	* estimar tiempo de implementación
-	* comunicarle al cliente (PM-TL)
-	* determinar el responsable de implementar la solución (TL-dev)
-	* comunicarle al cliente el desvío (si aplica)
-	* comunicarle al cliente cuando el reporte haya sido solucionado
+* atender reportes del cliente (asesoramiento técnico al PM)
+* evaluar alcance del reporte y prioridad
+* evaluar soluciones al reporte
+* estimar tiempo de implementación
+* comunicarle al cliente (PM-TL)
+* determinar el responsable de implementar la solución (TL-dev)
+* comunicarle al cliente el desvío (si aplica)
+* comunicarle al cliente cuando el reporte haya sido solucionado
 
 ### Desarrollos finalizados
 
@@ -74,14 +76,10 @@
 	* Revisión continua de estimación vs. presupuesto
 	* Revisión riesgos junto a PM (asesoramiento)
 	* Control de la metodología de trabajo utiizada
+	* Transmitir esfuerzo de las tareas realizadas al cliente
 * Reuniones:
 	* Standup meetings con el equipo
 	* Status meeting con el equipo + cliente
 	* con PM
 	* con diseñadores
 	* demos de las tareas realizadas al cliente
-
-
-* Transmitir esfuerzo de las tareas realizadas al cliente
-
-* Estimación de nuevas funcionalidades para presupuestos
