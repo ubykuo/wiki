@@ -29,7 +29,6 @@
 
 * Configuración de servidores/buckets (AWS)
 * Configuración de SSL
-* Configuración de Proxy
 * Configuración de DNS
 * Configuración de CI
 * Configuración de entornos (preproducción/produccion) 
