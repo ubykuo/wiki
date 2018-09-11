@@ -3,7 +3,7 @@
 
 # Responsabilidades (actuales Lucas + Manu)
 * Asegurar calidad técnica del proyecto, teniendo en cuenta los factores de éxito y el presupuesto del mismo
-
+* Toma de decisiones en cuanto al diseño de soluciones
 
 * Revisión de PR:
 	* Legibilidad
@@ -12,15 +12,16 @@
 	* Compatibilidad (crossbrowser)
 	* Tests
 
-
-* Estimación de nuevas funcionalidades para presupuestos
-
-
 * Investigación de tecnologías:
 	* framefowks
 	* librerías
 
 * Elaboración de documentación sobre investigaciones, setups, etc.
+
+* Desarrollo de POC para toma de decisiones
+
+* Atención de consultas a los desarrolladores 
+* Atención de consultas técnicas del cliente (asesoramiento técnico al PM)
 
 * Arquitectura:
 	* Configuración de servidores/buckets (AWS)
@@ -33,10 +34,8 @@
 
 * Diseño/Implementación de test de stress
 
+### Reportes
 
-* Toma de decisiones en cuanto al diseño de soluciones
-
-** REPORTES **
 * Reportes:
 	* atender reportes del cliente (asesoramiento técnico al PM)
 	* evaluar alcance del reporte y prioridad
@@ -47,35 +46,42 @@
 	* comunicarle al cliente el desvío (si aplica)
 	* comunicarle al cliente cuando el reporte haya sido solucionado
 
-* Atención de consultas a los desarrolladores 
-* Atención de consultas técnicas del cliente (asesoramiento técnico al PM)
+### Desarrollos finalizados
+
+* Integración de funcionalidades desarrolladas a pre/prod y asegurarse del correcto funcionamiento
+	* Aviso a cliente de integración
+	* Actualizar tablero
+
+
+### Setup inicial de integrantes del equipo
+
+* Introducir a integrantes nuevos del equipo el proceso del proyecto
 * Configurar acceso a:
 	* Tablero del proyecto
 	* Repositorios de código
 	* Servidores
 * Configurar entorno local de los desarrolladores
-* Introducir a integrantes nuevos del equipo el proceso del proyecto
+
+
+### Planificación
+
+* Planificación:
+	* Definición de tareas y elaboración de detalle para el desarrollador
+	* Distribución de tareas a los desarrolladores
+	* Estimación de tareas (story points + horas + priority)
+* Seguimiento
+	* Revisión del tablero
+	* Revisión continua de estimación vs. presupuesto
+	* Revisión riesgos junto a PM (asesoramiento)
+	* Control de la metodología de trabajo utiizada
 * Reuniones:
 	* Standup meetings con el equipo
 	* Status meeting con el equipo + cliente
 	* con PM
 	* con diseñadores
-* Integración de funcionalidades desarrolladas a pre/prod y asegurarse del correcto funcionamiento
-	* Aviso a cliente de integración
-	* Actualizar tablero
-
-** PLANIFICACIÓN **
-* Planificación:
-	* Definición de tareas y elaboración de detalle para el desarrollador
-	* Distribución de tareas a los desarrolladores
-	* Estimación de tareas (story points + horas + priority)
-* Planificación (seguimiento)
-	* Revisión del tablero
-	* Revisión continua de estimación vs. presupuesto
-	* Revisión riesgos junto a PM (asesoramiento)
-	* Control de la metodología de trabajo utiizada
+	* demos de las tareas realizadas al cliente
 
 
-* Asesor funcional al PM y al cliente
 * Transmitir esfuerzo de las tareas realizadas al cliente
-* Demos semanales de las tareas realizadas al cliente
+
+* Estimación de nuevas funcionalidades para presupuestos
