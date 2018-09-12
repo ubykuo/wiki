@@ -5,7 +5,6 @@
 ## Gestión de Riesgo
 ## Manejo de expectativas
 ### Roadmap
-### 
 ## Checklist
 * Riesgo
 * Roadmap
